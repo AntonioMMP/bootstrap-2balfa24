@@ -1,0 +1,14 @@
+body{
+    background-color: #0059ff;
+}
+header{
+    margin: 2vh auto;
+}
+header, nav, main, .row div, .d-flex div{
+    background-color: #ffff;
+    
+    border: 5px solid #0059ff;
+}
+nav, main{
+    min-height: 82vh;
+}
